@@ -1,0 +1,56 @@
+.Search{
+    background-color: #EEEEEE;
+    height: 60px;
+    width: 1238.69px;
+}
+.SubmitButton{
+    float: left;
+}
+.SearchText{
+    width: 311px;
+    height: 14px;
+}
+.SubmitButton2{
+    width: 110.42;
+    
+}
+.sol{
+    background-color: #7EE5DA;
+    height: 76px;
+    width: 457.56px;
+    margin-left: 73px;
+    border-top: #EEEEEE solid 2px;
+}
+.orta{
+    background-color: #70CCC2;
+    width: 241.39px;
+    height: 76px;
+    border-left: #EEEEEE solid 2px;
+    border-right: #EEEEEE solid 2px;
+    border-top: #EEEEEE solid 2px;
+}
+.orta li{
+    font-size: 12px;
+}
+.sag{
+    background-color: #70CCC2;
+    width: 537.73px;
+    height: 76px;
+    border-top: #EEEEEE solid 2px;
+
+}
+.sag li{
+    font-size: 12px;
+}
+li{
+    list-style-type: none;
+}
+l{
+    font-size: 12px;
+}
+.container-bot{
+    margin-top: 100px;
+}
+e{
+    font-size: 16px;
+}
